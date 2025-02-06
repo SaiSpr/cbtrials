@@ -18,7 +18,7 @@ import streamlit.components.v1 as components
 
 
 # Streamlit Title
-st.title("Embedded Gradio App in Streamlit")
+st.title("E🧬 Galileo - Biomarker Based Clinical Trial Matching!")
 
 # Embed the Gradio app using an iframe
 gradio_url = "https://saiprakashtut-galileo.hf.space"  # Replace with your Gradio app URL
